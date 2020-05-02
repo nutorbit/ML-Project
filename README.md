@@ -33,7 +33,6 @@ model architecture
 ### Task 2
 
 ![](./tasks/task2/image/showcase1.png)
-![](./tasks/task2/image/showcase2.png)
 
 ### Task 3
 
