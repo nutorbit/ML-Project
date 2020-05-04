@@ -20,7 +20,7 @@ model architecture
 
 * Simple stacking
 
-![](./src/Classification/image/simple-stacking.png)
+![](./SRC/Classification/image/simple-stacking.png)
 
 * Majority vote
 
@@ -28,16 +28,16 @@ model architecture
 
 * Stacking + Majority vote with multi-meta-learner
 
-![](./src/Classification/image/advance-stacking.png)
+![](./SRC/Classification/image/advance-stacking.png)
 
 ### Task 2
 
-![](./src/Regression/image/showcase1.png)
+![](./SRC/Regression/image/showcase1.png)
 
 ### Task 3
 
-![](./src/Clustering/image/pca.png)
-![](./src/Clustering/image/tsne.png)
+![](./SRC/Clustering/image/pca.png)
+![](./SRC/Clustering/image/tsne.png)
 
 ## Team
 
