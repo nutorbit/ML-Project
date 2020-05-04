@@ -20,21 +20,27 @@ model architecture
 
 * Simple stacking
 
-![](./tasks/task1/image/simple-stacking.png)
+![](./src/task1/image/simple-stacking.png)
 
 * Majority vote
 
-![](./tasks/task1/image/voting.png)
+![](./src/task1/image/voting.png)
 
 * Stacking + Majority vote with multi-meta-learner
 
-![](./tasks/task1/image/advance-stacking.png)
+![](./src/task1/image/advance-stacking.png)
 
 ### Task 2
 
-![](./tasks/task2/image/showcase1.png)
+![](./src/task2/image/showcase1.png)
 
 ### Task 3
 
-![](./tasks/task3/image/pca.png)
-![](./tasks/task3/image/tsne.png)
+![](./src/task3/image/pca.png)
+![](./src/task3/image/tsne.png)
+
+## Team
+
+| <img src='./image/nut.jpg' width=150px> | <img src='./image/sand.jpg' width=150px> | <img src='./image/boss.jpg' width=150px> |
+| ------------- | :-------------: | :-------------: |
+| 60070134 Nut Chukmaphaeng | 60070135 Nattanicha  Chaisiripanich | 60070144 Nonthakorn  Markeeree |
